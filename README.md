@@ -1,1 +1,1 @@
-# testing-exo
+Practice testing with jest

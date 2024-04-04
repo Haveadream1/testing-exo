@@ -1,0 +1,23 @@
+{
+  "name": "testing-exo",
+  "version": "1.0.0",
+  "description": "Practice testing with jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haveadream1/testing-exo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haveadream1/testing-exo/issues"
+  },
+  "homepage": "https://github.com/Haveadream1/testing-exo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
