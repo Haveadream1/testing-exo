@@ -18,3 +18,6 @@ module.exports = sum;
 
 // 5. Go to the package.json
     // Change: "test": "jest"
+
+// 6. Run the test
+    // npm test
